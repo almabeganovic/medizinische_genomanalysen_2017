@@ -72,7 +72,7 @@ Repository: [medizinische_genomanalysen_2017_assignment_3](https://github.com/sp
 
 ### Exercise - Clinical sequencing
 
-#### Your TOODs
+#### Your TODOs
 1. Perform 6 analysis steps (if possible) using FASTQ files 
 2. Per group present the selected software and analysis results (07.01.2015) 
    * Software: 10min 
