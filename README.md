@@ -69,7 +69,53 @@ Repository: [medizinische_genomanalysen_2017_assignment_3](https://github.com/sp
 
 
 ## Student projects
-TODO -> will be online soon
+
+### Exercise - Clinical sequencing
+
+#### Peform the following steps 
+1. Data Import – take FASTQ files from:
+   * Illumina:  ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase3/data
+   * Ion Torrent: (Only for Ion Reporter)  ftp://ftp-trace.ncbi.nih.gov/giab/ftp/data/AshkenazimTrio/HG002_NA24385_son/ion_exome/
+   * Requirement: human, genome (no RNASeq, methylation, …)
+2. Quality Control & QC Report 
+3. Mapping 
+4. Variant Calling (SNV, Indel) 
+5. Variant Annotation 
+6. Interpretation & Decision Making 
+
+#### Your TOODs
+1. Perform 6 analysis steps (if possible) using FASTQ files 
+2. Per group present the selected software and analysis results (07.01.2015) 
+   * Software: 10min 
+   * Performed analysis: 10min
+
+#### Student groups 
+1. Illumina basespace  --  https://basespace.illumina.com/home/index 
+   * Moser
+   * Basílio
+   * Tolios
+   * Ruge
+2. Ion Reporter  --  https://ionreporter.lifetechnologies.com/ir/ 
+   * Tomaselli 
+   * Bindeus
+   * Gollobich
+3. Galaxy  --  https://main.g2.bx.psu.edu/ 
+   * Gutsohn
+   * Buchner
+   * Lehrach
+4. Chipster  --  http://chipster.csc.fi/ 
+   * Brauneis
+   * Juno
+   * Beganovic
+   * Majewski
+5. GenePattern  --  https://genepattern.broadinstitute.org/gp
+   * Schwarz
+   * Lang
+   * Spielvogel
+
+
+
+
 
 
 
