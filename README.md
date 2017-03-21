@@ -72,6 +72,12 @@ Repository: [medizinische_genomanalysen_2017_assignment_3](https://github.com/sp
 
 ### Exercise - Clinical sequencing
 
+#### Your TOODs
+1. Perform 6 analysis steps (if possible) using FASTQ files 
+2. Per group present the selected software and analysis results (07.01.2015) 
+   * Software: 10min 
+   * Performed analysis: 10min
+
 #### Peform the following steps 
 1. Data Import – take FASTQ files from:
    * Illumina:  ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase3/data
@@ -82,12 +88,6 @@ Repository: [medizinische_genomanalysen_2017_assignment_3](https://github.com/sp
 4. Variant Calling (SNV, Indel) 
 5. Variant Annotation 
 6. Interpretation & Decision Making 
-
-#### Your TOODs
-1. Perform 6 analysis steps (if possible) using FASTQ files 
-2. Per group present the selected software and analysis results (07.01.2015) 
-   * Software: 10min 
-   * Performed analysis: 10min
 
 #### Student groups 
 1. Illumina basespace  --  https://basespace.illumina.com/home/index 
