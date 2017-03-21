@@ -78,7 +78,7 @@ Repository: [medizinische_genomanalysen_2017_assignment_3](https://github.com/sp
    * Software: 10min 
    * Performed analysis: 10min
 
-#### Peform the following steps 
+#### Perform the following steps 
 1. Data Import – take FASTQ files from:
    * Illumina:  ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase3/data
    * Ion Torrent: (Only for Ion Reporter)  ftp://ftp-trace.ncbi.nih.gov/giab/ftp/data/AshkenazimTrio/HG002_NA24385_son/ion_exome/
