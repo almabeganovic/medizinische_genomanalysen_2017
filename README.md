@@ -52,8 +52,8 @@ Repository: [medizinische_genomanalysen_2017_assignment_3](https://github.com/sp
 | ----- | --- |
 | Basílio	José | Gutsohn, Moser | 
 | Beganovic	Alma | Brauneis, Basílio | 
-| Bindeus	Alexander | Beganovic, Tolios | 
-| Brauneis	Shelley | Tolios, Tomaselli | 
+| Bindeus	Alexander | Beganovic, Moser | 
+| Brauneis	Shelley | Majewski, Tomaselli | 
 | Buchner	Bianca Allegra | Majewski, Juno | 
 | Gollobich	Martin | Lang, Lehrach | 
 | Gutsohn	Tamás | Gollobich, Buchner | 
@@ -64,7 +64,6 @@ Repository: [medizinische_genomanalysen_2017_assignment_3](https://github.com/sp
 | Moser	Josef | Gollobich, Bindeus | 
 | Ruge	Frank | Basílio, Lang | 
 | Spielvogel	Clemens | Tomaselli, Ruge | 
-| Tolios	Alexander | Moser, Majewski | 
 | Tomaselli	Anna | Bindeus, Spielvogel | 
 
 
@@ -93,8 +92,7 @@ Repository: [medizinische_genomanalysen_2017_assignment_3](https://github.com/sp
 1. Illumina basespace  --  https://basespace.illumina.com/home/index 
    * Moser
    * Basílio
-   * Tolios
-   * Ruge
+   * Beganovic
 2. Ion Reporter  --  https://ionreporter.lifetechnologies.com/ir/ 
    * Tomaselli 
    * Bindeus
@@ -106,10 +104,9 @@ Repository: [medizinische_genomanalysen_2017_assignment_3](https://github.com/sp
 4. Chipster  --  http://chipster.csc.fi/ 
    * Brauneis
    * Juno
-   * Beganovic
    * Majewski
 5. GenePattern  --  https://genepattern.broadinstitute.org/gp
-   * Schwarz
+   * Ruge
    * Lang
    * Spielvogel
 
