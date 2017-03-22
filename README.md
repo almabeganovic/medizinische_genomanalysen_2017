@@ -9,8 +9,8 @@ Material and information about the lecture "Medizinische Genomanalysen"
 * Review process takes place from 02.04.2017 01.05.2017
 * Each student needs to review all three assignments of two other students (total 6)
 * Upload the review reports (2 students, 3 assignments each) latest on **01.05.2017** to <br/>
-moodle course: MEDGEN BIOINF18 SS2017
-each review needs to be uploaded separately (6 files)
+moodle course: MEDGEN BIOINF18 SS2017<br/>
+each review needs to be uploaded separately (6 files)<br/>
 filetype: PDF<br/>
 length: **5-10 sentences** per assignment<br/>
 checks: correct assignment, working code, correct results, documentation
